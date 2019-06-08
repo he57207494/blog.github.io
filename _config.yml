@@ -1,11 +1,11 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "/blog.github.io/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
 url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : 何洋的博客
   description                  : >
                                this should contain a proper description
 
